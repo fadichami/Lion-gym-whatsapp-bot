@@ -1,4 +1,11 @@
 {
+  "name": "liongym-bot",
+  "version": "1.0.0",
+  "description": "Lion gym WhatsApp bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "express": "^5.2.1",
     "qrcode-terminal": "^0.12.0",
